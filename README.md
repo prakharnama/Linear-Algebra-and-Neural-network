@@ -4,12 +4,12 @@ This repository contains some problems which will teach you how to go forward wi
 ## Libraries 
 If you are using the jupyter notebook, these are some of the libraries you need to install for the tutorials from 17 to 20. These tutorial are taken from the [nanohub](https://nanohub.org/tools/mseml). This site contains various projects related to material science. Do check it out.
 
-'''bash
+```python
 import pymatgen as pymat
 import mendeleev as mendel
 import tensorflow
 import keras
-'''
+```
 
 <b> Note: For windows, you need to install latest visual studio as some of the tools may not load.</b>
 As you may know that keras are now a part of tensorflow, but these notebook are made before the keras are used as individual library, so do check out the tensorflow documentation. However, it still works in my modified notebook
