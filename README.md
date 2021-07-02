@@ -17,7 +17,7 @@ The description of each tutorial is given as Tutorial{number}_{what it contains}
 1. Starting from the Tutorial 1 upto the tutorial 7, you will have a basic understanding of how to work with tools like Linear algebra, plotting, variance, SVD and PCA analysis which are crucial aspects for creating a model.
 2. Tutorial 8 is a small tutorial that will teach you, how to install pymatgen in your PC or laptop. 
 
-<b> Note: For windows, you need to install latest visual studio as some of the tools may not load/</b>
+<b> Note: For windows, you need to install latest visual studio as some of the tools may not load.</b>
 
 3. Tutorial 9 upto the tutorial 13 gives you an detailed view of the how to use probability distribution, Linear regression from scratch, Gradient descent from scratch, Logistic regression and Kmeans clustering. 
 These notebooks are highly detailed if you are a begineer do take you time understanding them.
